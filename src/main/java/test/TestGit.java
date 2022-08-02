@@ -7,5 +7,6 @@ public class TestGit {
         System.out.println("Hi");
         System.out.println("master merge");
         System.out.println("hot-fix merge");
+        System.out.println("master first push");
     }
 }
