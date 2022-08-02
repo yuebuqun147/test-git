@@ -5,5 +5,6 @@ public class TestGit {
         System.out.println("Hello Git");
         System.out.println("Hello Git again");
         System.out.println("Hi");
+        System.out.println("master merge");
     }
 }
